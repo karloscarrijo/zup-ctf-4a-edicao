@@ -1,6 +1,6 @@
 # :pirate_flag: CTF ZUP (2021) - 4ª Edição
 
-Sejam bem-vindxs! Este write-up contém em detalhes, todas as minhas soluções para os desafios da 4ª edição do CTF da ZUP Innovation, que ocorreu em Novembro de 2021. Esta foi a primeira vez que participei de um evento do tipo e só tenho coisas positivas para falar. Foi um final de semana de muito aprendizado e diversão. Quando tiverem oportunidade, não deixem de participar de um CTF, vocês não irão se arrepender.
+Sejam bem-vindxs! Este write-up contém em detalhes, todas as minhas soluções para os desafios da 4ª edição do CTF da ZUP Innovation, que ocorreu em Novembro de 2021. Esta foi a primeira vez que participei de um evento do tipo e só tenho coisas positivas para falar. Foi um final de semana de muito aprendizado e diversão. Quando tiverem oportunidade não deixem de participar de um CTF, vocês não irão se arrepender.
 
 ## Categorias
 1. [Android](#android)
@@ -24,7 +24,7 @@ Sejam bem-vindxs! Este write-up contém em detalhes, todas as minhas soluções 
     - [Blind (550)](#blind-550)
     - [Welcome to the Juggling (850)](#welcome-to-the-juggling-850)
 
-## Android
+## :robot: Android
 
 ### Android3 (100)
 
@@ -42,7 +42,7 @@ Texto...
 
 Texto...
 
-## Cloud Security
+## :sun_behind_large_cloud: Cloud Security
 
 ### Leak (25)
 
@@ -52,11 +52,11 @@ Texto...
 
 Texto...
 
-## Misc
+## :coffee: Misc
 
 ### Feedback (5)
 
-Texto...
+Este desafio apenas pedia para acessar um formulário e dar feedback sobre o evento. Cinco pontinhos grátis para todo mundo :grin:
 
 ### Conversa estranho (25)
 
@@ -70,7 +70,7 @@ Texto...
 
 Texto...
 
-## Osint
+## :man_technologist: Osint
 
 ### hacker 1 (500)
 
@@ -80,7 +80,7 @@ Texto...
 
 Texto...
 
-## Web Application
+## :spider_web: Web Application
 
 ### Lorem Ipsum (30)
 
